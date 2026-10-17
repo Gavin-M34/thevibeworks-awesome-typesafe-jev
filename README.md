@@ -1592,7 +1592,7 @@ Someone ran it and wrote down what happened.
 
 Data-driven studies of Jev use and its emerging ecosystem.
 
-- [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216) - Analyzes 2,170 public GitHub Jev projects, tracking early growth, application domains, decision purposes, interface use, and where stars concentrate. <sub>Guoming Ling, Muen Xue, Zijian Ye · 2026-09-24</sub>
+- [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216) - 2,170 public GitHub Jev projects as of 2026-09-22: growth, domains, decision purposes, interfaces, where stars go. Labels are LLM-assigned; no human check reported. <sub>Guoming Ling, Muen Xue, Zijian Ye · 2026-09-24</sub>
 
 ### Explainers
 

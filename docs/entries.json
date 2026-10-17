@@ -14212,7 +14212,7 @@
    "by": "Guoming Ling, Muen Xue, Zijian Ye",
    "date": "2026-09-24",
    "lang": "en",
-   "note": "Analyzes 2,170 public GitHub Jev projects, tracking early growth, application domains, decision purposes, interface use, and where stars concentrate"
+   "note": "2,170 public GitHub Jev projects as of 2026-09-22: growth, domains, decision purposes, interfaces, where stars go. Labels are LLM-assigned; no human check reported"
   },
   {
    "title": "Jev means structured output is interesting again",
